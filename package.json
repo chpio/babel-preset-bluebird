@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-bluebird",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transforms *async/await* and *Promise* to bluebird",
   "keywords": ["babel", "babel-preset", "bluebird", "promise", "async", "await"],
   "main": "main.es5.js",
